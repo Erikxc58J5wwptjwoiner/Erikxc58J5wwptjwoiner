@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Erikxc58J5wwptjwoiner
 
-<!--
-**Erikxc58J5wwptjwoiner/Erikxc58J5wwptjwoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🎧 A freak in frameworks 🏊 🎧
 
-Here are some ideas to get you started:
+## About Me
+✨ 🎮 🎮 🎣 A programmer in project management ✨ 🎮 🎮 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🔥 🎽 A passionate developer who loves machine learning 🔥 🎽
+
+### Fun Facts
+🛹 🚵 🏏 A developer in programming languages 🛹 🚵 🏏
+
+---
+🛹 🏒 🎮 🏏 🎨 Thanks for visiting my profile! 🏄 🎰 🎷 🎯 🎬
